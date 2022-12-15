@@ -1,0 +1,147 @@
+* {
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+background-color:#252627;
+}
+
+h1 {
+font-size:5rem;
+padding-left: 3rem;
+color:#5AD2F4;
+
+}
+
+h1:hover {
+color:chocolate;
+}
+
+.nav-link h3  {
+color:#4ECDC4;
+font-size:2rem;
+margin-left: 14rem;
+margin-top:1.5rem;
+}
+
+h3:hover {
+color:coral;
+}
+
+h2 {
+font-size: 4rem;
+float:right;
+margin-right:26rem;
+color:#6EF9F5;
+margin-top: 12rem;
+
+}
+
+
+.card {
+width: 60%;
+margin-left: 13rem;
+border-width: 3px;
+border-color: cyan;
+transition:box-shadow 0.3s;
+}
+
+
+.grid {
+margin-top: 5rem;
+display: grid;
+grid-template-columns: 1fr 1fr;
+grid-template-rows: 1fr 1fr;
+row-gap: 3rem;
+margin-bottom: 100px;
+}
+
+
+h5 {
+font-size: 2rem;
+}
+
+.jumbotron {
+margin-top: 1rem;
+background-color: #BBD1EA;
+}
+
+.avatar-container {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.container p {
+font-size: 1.5rem;
+}
+
+#projects {
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 3rem;
+color:#6EF9F5;
+margin-top: 5rem;
+}
+
+.card-body {
+background-color: rgb(204, 228, 243);
+}
+
+.btn {
+background-color: royalblue;
+padding-left:20px;
+padding-right: 20px;
+padding-top: 12px;
+padding-bottom: 12px;
+font-size: 1.7rem;
+border-radius: 14px;
+transition:shadow 0.3s;
+}
+
+.btn:hover {
+background-color: chocolate;
+}
+
+
+
+#skills p {
+font-size:2rem;
+color:rgb(204, 228, 243);
+margin-left: 1.5rem;
+}
+
+footer {
+background-color: rgb(191, 229, 252);;
+height: 3.6rem;
+margin-bottom: 3rem;
+margin-top: 10rem;
+display: flex;
+justify-content:space-between;
+padding-left: 15rem;
+
+}
+
+
+footer a {
+color:red;
+font-size: 1.7rem;
+}
+
+footer a:hover {
+text-shadow: 3px 3px 3px;
+text-decoration:none;
+} 
+
+.card:hover {
+box-shadow: 6px 6px 10px chocolate;
+}
+
+.btn:active {
+margin: 6px 10px 10px 10px;
+}
+
+.btn:hover {
+box-shadow: 4px 4px 4px red;
+}
