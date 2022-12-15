@@ -1,6 +1,6 @@
 # Bootstrap Portfolio
 
-## ## ![my screenshot](./images/screenshot.png)
+## ![my screenshot](./images/screenshot.png)
 
 ## This file is part of bootcamp's bootstrap exercise which is delivered by Trilogy Education Services, an affiliate of edX. Contact Trilogy Skills Bootcamp at +442038356355.
 ## Installation N/A
