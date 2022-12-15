@@ -1,4 +1,4 @@
-# Bootstrap Portfolio
+# bootstrap portfolio
 
 ## ![my screenshot](./images/screenshot.png)
 
